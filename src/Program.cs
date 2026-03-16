@@ -11,4 +11,9 @@ public class Program
     {
         return values.Sum() / values.Length;
     }
+
+    public int CalculateMax(int[] values)
+    {
+        return values.Max();
+    }
 }
