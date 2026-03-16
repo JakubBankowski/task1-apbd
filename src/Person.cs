@@ -16,4 +16,14 @@ public class Person
         this.name = "John Doe";
         this.age = 20;
     }
+    
+    public int getAge()
+    {
+        return this.age;
+    }
+    
+    public string getName()
+    {
+        return this.name;
+    }
 }
