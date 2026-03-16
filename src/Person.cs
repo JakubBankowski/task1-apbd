@@ -2,7 +2,7 @@
 
 public class Person
 {
-    private string name;
+    string name;
     int age;
 
     public Person(string name, int age)
