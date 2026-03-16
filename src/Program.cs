@@ -19,6 +19,6 @@ public class Program
     
     public int CalculateMin(int[] values)
     {
-        return 0;
+        return values.Min();
     }
 }
