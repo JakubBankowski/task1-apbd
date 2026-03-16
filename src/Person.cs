@@ -10,4 +10,10 @@ public class Person
         this.name = name;
         this.age = age;
     }
+
+    public Person()
+    {
+        this.name = "John Doe";
+        this.age = 20;
+    }
 }
