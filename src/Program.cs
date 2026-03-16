@@ -16,4 +16,9 @@ public class Program
     {
         return values.Max();
     }
+    
+    public int CalculateMin(int[] values)
+    {
+        return 0;
+    }
 }
