@@ -17,12 +17,12 @@ public class Person
         this.age = 20;
     }
     
-    public int getAge()
+    public int GetAge()
     {
         return this.age;
     }
     
-    public string getName()
+    public string GetName()
     {
         return this.name;
     }
